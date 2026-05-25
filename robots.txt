@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://fredpaschoal01-sys.github.io/cursodebanhoetosa/sitemap.xml
